@@ -5,9 +5,9 @@
 		  <!--<mt-swipe-item v-for="item in lunbotuList" :key="item.url"><img :src="item.img" alt=""></mt-swipe-item>-->
 		  
 		
-		  <mt-swipe-item><img src="../images/lunbotu1.png" alt=""></mt-swipe-item>
-		  <mt-swipe-item><img src="../images/lunbotu2.jpg" alt=""></mt-swipe-item>
-		  <mt-swipe-item><img src="../images/lunbotu3.png" alt=""></mt-swipe-item>	
+		  <mt-swipe-item><img src="../images/a8.png" alt=""></mt-swipe-item>
+		  <mt-swipe-item><img src="../images/a9.png" alt=""></mt-swipe-item>
+		  <mt-swipe-item><img src="../images/a10.jpg" alt=""></mt-swipe-item>	
 		</mt-swipe>
 
 <!------------九宫格改六宫格------------>
